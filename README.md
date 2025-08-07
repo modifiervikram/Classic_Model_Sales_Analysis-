@@ -93,22 +93,12 @@ Whether you're building a web application, a mobile app, or a desktop applicatio
 1. Run `npm run test:integration` or `yarn test:integration` to run integration tests
 2. Run `npm run test:integration:watch` or `yarn test:integration:watch` to run integration tests in watch mode
 
-📸 Screenshots
---------------
-
-[Insert screenshots of the project in action]
-
-📦 API Reference
-----------------
-
-[Insert API reference documentation]
-
 👤 Author
 ---------
 
-* **Your Name**
-* **Your Email**
-* **Your GitHub Profile**
+* **VIKRAM KUMAR**
+* **vikramsingh05226@gmail.com**
+* **modifiervikram**
 
 📝 License
 ----------
